@@ -1,0 +1,15 @@
+/* Ensure modal body has a fixed height and overflow-y set to auto */
+.modal-body {
+  max-height: 400px; /* Adjust as needed */
+  overflow-y: auto;
+}
+
+/* Optionally, you can add padding to the modal body */
+.modal-body {
+  padding: 15px; /* Adjust as needed */
+}
+
+/* If necessary, you can also adjust the modal content's width */
+.modal-content {
+  max-width: 600px; /* Adjust as needed */
+}
